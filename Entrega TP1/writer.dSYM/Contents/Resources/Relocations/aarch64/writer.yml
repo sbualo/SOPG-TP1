@@ -1,0 +1,17 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/santiagobualo/Library/CloudStorage/OneDrive-Personal/Documentos/Maestria/3er Bimestre/Sistemas Operativos de Propósito General/TP1/Entrega TP1/writer"
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003914, symSize: 0x240 }
+  - { offsetInCU: 0x4D, offset: 0x4D, size: 0x8, addend: 0x0, symName: _outputBuffer, symBinAddr: 0x100008008, symSize: 0x0 }
+  - { offsetInCU: 0x6F, offset: 0x6F, size: 0x8, addend: 0x0, symName: _bytesWrote, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x96, offset: 0x96, size: 0x8, addend: 0x0, symName: _returnCode, symBinAddr: 0x100008134, symSize: 0x0 }
+  - { offsetInCU: 0xBD, offset: 0xBD, size: 0x8, addend: 0x0, symName: _fd, symBinAddr: 0x100008004, symSize: 0x0 }
+  - { offsetInCU: 0xD2, offset: 0xD2, size: 0x8, addend: 0x0, symName: _s, symBinAddr: 0x100008138, symSize: 0x0 }
+  - { offsetInCU: 0xF3, offset: 0xF3, size: 0x8, addend: 0x0, symName: _sa_user1, symBinAddr: 0x100008200, symSize: 0x0 }
+  - { offsetInCU: 0x299, offset: 0x299, size: 0x8, addend: 0x0, symName: _sa_user2, symBinAddr: 0x100008210, symSize: 0x0 }
+  - { offsetInCU: 0x2A2, offset: 0x2A2, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003914, symSize: 0x240 }
+  - { offsetInCU: 0x2D8, offset: 0x2D8, size: 0x8, addend: 0x0, symName: _siguserone_handler, symObjAddr: 0x240, symBinAddr: 0x100003B54, symSize: 0xC0 }
+  - { offsetInCU: 0x318, offset: 0x318, size: 0x8, addend: 0x0, symName: _sigusertwo_handler, symObjAddr: 0x300, symBinAddr: 0x100003C14, symSize: 0xC0 }
+  - { offsetInCU: 0x358, offset: 0x358, size: 0x8, addend: 0x0, symName: _addHeader, symObjAddr: 0x3C0, symBinAddr: 0x100003CD4, symSize: 0x170 }
+...

@@ -1,0 +1,12 @@
+SIGUSR1 Detected -> logging activityDATA:SIGN:SIGUSR1 Detected -> logging activityrc
+
+ected -> logging activityDATA:DATA:DATA:DATA:mi comunicacion de datos es fluida
+
+SIGUSR1 Detected -> logging activityDATA:DATA:DATA:DATA:DATA:mi comunicacion de datos es fluida
+
+SIGUSR1 Detected -> logging activity
+SIGUSR2 Detected -> logging activity
+SIGUSR2 Detected -> logging activity
+SIGUSR1 Detected -> logging activityDATA:DATA:DATA:DATA:DATA:DATA:DATA:DATA:DATA:mi comunicacion de datos es fluida
+
+

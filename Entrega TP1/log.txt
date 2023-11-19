@@ -1,0 +1,19 @@
+hola
+
+test nuevo
+
+que sucede con lo que hago aca
+
+ok, no borra el contenido del archivoc
+
+SIGN:SIGUSR1 Detected -> logging activitygvityrc
+
+TA:DATA:DATA:mi comunicacion de datos es fluida
+
+DATA:DATA:DATA:DATA:DATA:DATA:mi comunicacion de datos es fluida
+
+DATA:DATA:DATA:DATA:DATA:DATA:DATA:mi comunicacion de datos es fluida
+
+que sucede con mi buffer
+
+
