@@ -32,7 +32,7 @@ int main(void)
    
 
     sa_user1.sa_handler = siguserone_handler;
-    sa_user1.sa_flags = 0; //SA_RESTART;
+    sa_user1.sa_flags = SA_RESTART; //SA_RESTART;
     sigemptyset(&sa_user1.sa_mask);
     if (sigaction(SIGUSR1, &sa_user1, NULL) == -1) { 
         perror("sigaction");
@@ -41,7 +41,7 @@ int main(void)
 
 
     sa_user2.sa_handler = sigusertwo_handler;
-    sa_user2.sa_flags = 0; //SA_RESTART;
+    sa_user2.sa_flags = SA_RESTART; //SA_RESTART;
     sigemptyset(&sa_user2.sa_mask);
     if (sigaction(SIGUSR2, &sa_user2, NULL) == -1) { 
         perror("sigaction");
@@ -110,7 +110,7 @@ void siguserone_handler(int sig){
     }
     else
     {
-        printf("Signal Logged");
+        printf("Signal Logged\n\r");
     }
 }
 
